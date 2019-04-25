@@ -1,0 +1,785 @@
+
+div.wrapper {
+	width: 100%;
+	height: auto;
+}
+@font-face {
+	font-family: Raleway-Bold;
+	src: url(../fonts/Raleway-Bold.ttf);
+}
+@font-face {
+	font-family: Raleway-ExtraBold;
+	src: url(../fonts/Raleway-ExtraBold.ttf);
+}
+@font-face {
+	font-family: Raleway-Medium;
+	src: url(../fonts/Raleway-Medium.ttf);
+}
+@font-face {
+	font-family: Raleway-Regular;
+	src: url(../fonts/Raleway-Regular.ttf);
+}
+@font-face {
+	font-family: montserrat-light;
+	src: url(../fonts/Montserrat-Light.ttf);
+}
+h4#unique {
+    font-family: Raleway-Medium;
+    font-size: 36px;
+}
+h2#portfolio {
+   font-family: Raleway-ExtraBold;
+    font-size: 52px;
+}
+p#p0 {
+	position: relative;
+    font-family: montserrat-light;
+    font-size: 16px;
+    width: 700px;
+    text-align: center;
+    margin: 0 auto;
+}
+button#gets0 {
+	font-family: Raleway-ExtraBold;
+    font-size: 14px;
+    background-color: #998675;
+    color: white;
+    width: 170px;
+    height: 50px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 5%;
+}
+li {
+	display: inline-block;
+}
+a {
+	color: white;
+	font-family: montserrat-light;
+	font-size: 14px;
+	padding: 15px;
+}
+a:hover{
+	color: #c7b299;
+	text-decoration: none;
+}
+div.shoptools {
+	padding-left: 25px;
+}
+img#loupe {
+	padding-left: 25px;
+}
+.folders, .
+div.page2 {
+	height: auto;
+	background-color: #ffffff;
+}
+div.fourinrow{
+	display: flex;
+	position: relative;
+	justify-content: center;
+	text-align: center;
+	margin-top: 78px;
+}
+p#develop{
+	color: #555555;
+}
+p#develop, p#web, p#setting, p#bazar {
+	margin-bottom: 20px;
+}
+#pencil, #fold, #set, #marketing {
+	padding-bottom: 25px;
+}
+hr.browny{
+	height: 2px;
+	width:75px;
+	background-color: #f1eee9;
+}
+div.blabla {
+	margin-top: 85px;
+	display: flex-wrap;
+	justify-content: center;
+	text-align: center;
+}
+div.omg{
+	background-color: #fbfaf8;
+}
+.threep {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin-top: 40px;
+}
+span.difcolor {
+	color:#c7b299;
+}
+div.haha{
+	display: flex;
+	align-content: space-between;
+	position: relative;
+	z-index: 9999;
+    margin-top: -100px;
+}
+#zaza {
+	margin-top: 20px;
+}
+p.suck {
+	color: white;
+	margin: 0;
+}
+p.suck2 {
+    color: #4e4542;
+}
+button#purchasenow {
+	box-sizing: border-box;
+	border: none;
+	width: 170px;
+	height: 50px;
+	color: white;
+	background-color: #998675;
+	border-radius: 5%;
+}
+div.ohno {
+	margin-top: 80px;
+	text-align: center;
+	color: #555555;
+}
+div.knopochki{
+	display: flex-wrap;
+	text-align: center;
+    margin-top: 40px;
+}
+.all, .ostalnoe {
+	box-sizing: border-box;
+	border: 1px solid #ebebeb;
+	background-color: #ffffff;
+	color: #8c8c8c;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: 5px;
+	width: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+ .ostalnoe:hover {
+	background-color: #998675 ;
+	color: white;
+}
+.all:hover {
+	background-color: #998675 ;
+	color: white;
+}
+.zagabills {
+    margin-top: 40px;
+    display: flex;
+}
+.bloom {
+	margin-top: 10px;
+	display: flex;
+    justify-content: center;
+}
+p.card-text {
+	color:#c7b299;
+}
+.baby {
+	padding-right: 0px;
+}
+p.card-text1, .card-text3,
+.card-text3, .card-text4,
+.card-text5, .card-text6 {
+	color:#d1d1d1;
+}
+div.carddd {
+	background-color: #fbfaf8;
+}
+.zagabills {
+	padding-bottom: 20px;
+
+}
+div.tiredofknopki {
+    margin-top: 40px;
+    text-align: center
+}
+button#onemoreknopka {
+	box-sizing: border-box;
+    border-radius: 5px;
+    background-color: #998675;
+    width: 170px;
+    height: 50px;
+    color:white;
+    border: none;
+}
+div.page4 {
+	margin-top: 100px;
+}
+div#fuckingtext {
+	position: relative;
+	z-index: 9999;
+	margin-top: -500px;
+	text-align: center;
+}
+#waxomy, #under5 {
+	color:white;
+}
+p#timeofvid {
+	color: #b7a592;
+}
+img.starting {
+	margin-bottom: 50px;
+}
+h1#waxomy {
+	margin-bottom: 20px;
+}
+p#under5 {
+    margin-bottom:35px;	
+}
+div.page5 {
+	margin-top: 280px;
+}
+.excbabe {
+	margin-top: 110px;
+}
+p#excellent {
+	font-weight: bold;
+}
+p#excellent {
+	margin-bottom: 30px;
+}
+div.sdvig {
+	margin-top:30px;
+}
+span.odin {
+	padding: 20px;
+}
+div.just2 {
+	padding-top: 10px
+}
+div.just3 {
+	padding-top: 10px
+}
+div.just4 {
+	padding-top: 10px
+}
+div.smth {
+	position: relative;
+	z-index: 9999;
+	margin-top: -220px;
+	overflow: hidden;
+
+}
+.pissed {
+	display: flex-wrap;
+	justify-content: center;
+
+}
+.numbers {
+	color:white;
+	
+}
+.textunder {
+	color: #796a5b;
+	
+}
+.tra {
+	text-align: center;
+}
+hr.line2 {
+	background-color:white;
+	width: 30px;
+	height:2px;
+}
+div.page55 {
+	text-align: center;
+}
+div.page6{
+	margin-top: 80px;
+	
+}
+h1#zaglavie {
+	margin-bottom: 20px;
+	text-align: center;
+}
+div#recent {
+	margin-bottom: 40px;
+}
+span#fbi {
+	text-align: center;
+}
+div#recent {
+	text-align:center;
+}
+div.card-body {
+    margin-bottom: 40px;
+    color: #555555;
+}
+.imagine {
+	text-align:center;
+	margin-bottom: 45px;
+}
+.moreinf {
+	color: #c7b299;
+	padding: 0px;
+}
+.moreinf:after {
+	content: "▶";
+	font-size: 15px;
+	padding-left: 7px;
+	padding: right: 0px;
+}
+div#almostfooter {
+	background-color: #191919;
+}
+.firstone, .secondone, .thirdone,
+.forthone {
+	margin-top: 75px;
+}
+p.sleeptime {
+	color: white;
+}
+p.p222 {
+	color: #353535;
+}
+p.readmore {
+	color: white;
+}
+p.readmore:after {
+	content: "▶";
+	font-size: 10px;
+	padding: 5px;
+}
+h3.recentposts {
+	color: white;
+}
+p.sept, .septem, .septembr {
+	color: #343434;
+}
+p.p11, .orangetext, .p33 {
+	color: #555555;
+}
+h3.ourtweet {
+	color:white;
+}
+p.p1, .p2, .p3 {
+	color: #525252;
+}
+p.ago3, .ago20, .ago5 {
+	color: #343434;
+}
+span.blue {
+	color: #00bff3;
+}
+h3.dribble {
+	color:white;
+}
+hr.boom {
+	background-color: #252525;
+}
+div.finallyfooter {
+	height: 112px;
+	background-color: #111111;
+}
+.leftside, .rightside {
+	margin-top:30px;
+	display: inline-flex;
+}
+div.secondone {
+	margin-bottom: 40px;
+}
+span.gross {
+	color: #4c4c4c;
+}
+span.soso {
+	color: #959595;
+}
+.rightside {
+	display: inline-flex;
+	justify-content: flex-end;
+}
+div.logos {
+    display: flex;
+    justify-content: center;
+}
+div.videophoto {
+	display: flex;
+	justify-content: center;
+}
+div.shiit {
+    display: flex;
+    justify-content: center;
+}
+.picas {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+@font-face{
+	font-family:raleway-semibold;
+	src: url(../fonts/Raleway-SemiBold.ttf);
+}
+#web,#develop,#setting,#bazar{
+	font-size: 22px;
+	font-family: raleway-semibold;
+}
+#under1,#under2,#under3,#under4{
+	font-size: 14px;
+	font-family: montserrat-light;
+}
+.wax{
+	font-family: raleway-semibold;
+	font-size:30px;
+}
+#someshit {
+	font-family: montserrat-light;
+	font-size: 16px;
+}
+.suck {
+	font-family: raleway-regular;
+	font-size: 28px;
+}
+.suck2 {
+	font-family: montserrat-light;
+	font-size: 18px;
+}
+#purchasenow{
+	font-size: 14px;
+	font-family: raleway-regular;
+}
+#our{
+	font-size: 30px;
+	font-family: raleway-semibold;
+}
+#investigation {
+	font-family: montserrat-light;
+	font-size: 16px;
+}
+li {
+	font-family: montserrat-light;
+	font-size: 14px;
+}
+.card-text {
+	font-family: raleway-medium;
+	font-size: 20px;
+}
+.card-text1{
+	font-family: montserrat-light;
+	font-size: 14px;
+}
+p.card-textdif{
+	font-size: 20px;
+	font-family: raleway-medium;
+	color:#c7b299 ;
+}
+p.card-textdif1 {
+	font-size: 14px;
+	font-family: montserrat-light;
+	color:#d1d1d1;
+}
+#onemoreknopka{
+	font-family: raleway-extrabold;
+	font-size: 14px;
+}
+h1#waxomy {
+	font-family: raleway-meduim;
+	font-size: 30px;
+	color
+}
+p#under5{
+    font-family: montserrat-light;
+    font-size: 16px;
+}
+@font-face {
+	font-family: montserrat-regular;
+	src: url(../fonts/montserrat-regular.ttf);
+}
+p#timeofvid {
+	font-size: 14px;
+	font-family: montserrat-regular;
+}
+p#excellent{
+	font-family: raleway-semibold;
+	font-size: 30px;
+}
+p#qisi {
+	font-family: montserrat-light;
+	font-size: 16px;
+}
+span.odin {
+	font-family: montserrat-light;
+	font-size: 16px;
+}
+@font-face {
+	font-family: montserrat-extralight;
+	src: url(../fonts/montserrat-extralight.ttf);
+}
+div.numbers {
+	font-size: 48px;
+	font-family: montserrat-extralight;
+}
+div.textunder {
+	font-family: montserrat-light;
+	font-size: 14px; 
+}
+#zaglavie {
+	font-family: raleway-semibold;
+	font-size: 30px;
+}
+#fbi {
+	font-family: montserrat-light;
+	font-size: 16px;
+}
+.card-title {
+	font-family: raleway-medium;
+	font-size: 20px;
+}
+.card-text {
+	font-size: 14px;
+	font-family: montserrat-light;
+}
+.moreinf {
+	font-family: montserrat-light;
+	font-size: 14px;
+}
+p.sleeptime {
+	font-family: raleway-regular;
+	font-size: 34px;
+}
+p.p222 {
+	font-family: montserrat-light;
+	font-size: 14px;
+}
+p.readmore {
+	font-family: montserrat-regular;
+	font-size: 14px;
+}
+.recentposts,.ourtweet,.dribble {
+	font-family: raleway-bold;
+	font-size: 24px;
+}
+.sept,.septem,.septembr,.ago3,
+.ago5,.ago20 {
+	font-family: montserrat-light;
+	font-size: 12px;
+}
+.p11,.orangetext,.p33,.p1,
+.p2,.p3 {
+	font-family: montserrat-light;
+	font-size: 14px;
+}
+div.finallyfooter {
+	font-family: montserrat-light;
+	font-size: 13px;
+	color: #555555;
+}
+span.gross {
+	color: #959595;
+}
+h1#waxomy {
+	font-size: 30px;
+	font-family: raleway-medium;
+}
+.palka {
+	padding: 15px 10px 10px 0px;
+	padding-left: 10px;
+}
+a.pere {
+	color: #555555;
+	font-family: montserrat-light;
+	font-size: 13px;
+}
+p.card-text {
+	color:#8c8c8c;
+}
+a.pere:hover {
+	color: #c7b299;
+}
+p.designed,.onlyone {
+	margin-top: 15px;
+}
+a.salo:hover .sept {
+	color:white;
+}
+a.salo:hover .p11 {
+	color:#c7b299;
+}
+a.salo:hover .septem {
+	color:white;
+}
+a.salo:hover .orangetext {
+	color:#c7b299;
+}
+a.salo:hover .septembr {
+	color:white;
+}
+a.salo:hover .p33 {
+	color:#c7b299;
+}
+.card3:hover{
+    background-color:#362f2d; 
+}
+.card2:hover {
+	background-color:#362f2d; 
+}
+.card1:hover{
+    background-color:#362f2d; 
+}
+.card3:hover .card-text{
+    color: white; 
+}
+.card2:hover .card-text{
+    color: white;  
+}
+.card1:hover .card-text{
+    color: white; 
+}
+.card3:hover .card-title{
+    color:#c0ab93; 
+}
+.card2:hover .card-title{
+    color:#c0ab93; 
+}
+.card1:hover .card-title{
+    color:#c0ab93; 
+}
+img.imagine{
+	margin-top: 30px;
+}
+div.long {
+	margin: 0px;
+}
+div.fuck {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+div.zagabills {
+	margin-left: 70px;
+	margin-right: 70px;
+}
+div.bloom {
+	margin-left: 70px;
+	margin-right: 70px;
+}
+p.card-text123 {
+	color: #cbb7a0;
+	font-family:raleway-medium ;
+	font-size: 20px;
+}
+p.card-text1234 {
+	font-family: montserrat-light;
+	font-size: 14px;
+	color: #d1d1d1;
+}
+div.carddd:hover .card-text123{
+    color:white;
+}
+div.carddd:hover .card-textdif {
+	color:white;
+}
+div.carddd:hover .card-text1234{
+	color: #c7b299;
+}
+div.carddd:hover .card-textdif1 {
+	color:#c7b299;
+}
+div.carddd:hover .card-body {
+	background-color: #362f2d;
+}
+div.carddd img {
+	-webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+div.carddd:hover img{
+   -webkit-filter: opacity(75%);  
+}
+div.carddd:hover {
+	background-image: url(images/check.png);
+}
+div.webdesign:hover #web {
+	color: #c7b299;
+}
+div.folders:hover #develop {
+    color: #c7b299;
+}
+div.custom:hover #setting{
+    color: #c7b299;
+}
+div.market:hover #bazar {
+    color: #c7b299;
+}
+div.market:hover .browny {
+	background-color: #c7b299;
+}
+div.custom:hover .browny{
+    background-color: #c7b299;
+}
+div.folders:hover .browny {
+    background-color: #c7b299;
+}
+div.webdesign:hover .browny {
+	background-color: #c7b299;
+}
+.folders{
+    position:relative; 
+}
+.block{
+    position:absolute;
+    left:0;
+    bottom:0;
+    right:0;
+    top:0;
+    padding:0px;
+    display:none;
+}
+.folders:hover .block{
+    display:block;
+}
+.custom {
+	position:relative;
+}
+.block1{
+    position:absolute;
+    left:0;
+    bottom:0;
+    right:0;
+    top:0;
+    padding:0px;
+    display:none;
+}
+.custom:hover .block1{
+	display: block;
+}
+.market {
+	position: relative;
+}
+.block2 {
+	position:absolute;
+    left:0;
+    bottom:0;
+    right:0;
+    top:0;
+    padding:0px;
+    display:none;
+}
+.market:hover .block2 {
+	display: block;
+}
+.webdesign {
+	position: relative;
+}
+.block0 {
+	position:absolute;
+    left:0;
+    bottom:0;
+    right:0;
+    top:0;
+    padding:0px;
+    display:none;
+}
+.webdesign:hover .block0 {
+	display: block;
+}
+div.fourinrow {
+	margin-bottom: 50px;
+}
