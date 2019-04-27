@@ -1,4 +1,30 @@
-.container {
-	display: flex;
-	justify-content: center;
+.fuckucarousel {
+	position: absolute;
 }
+.logo {
+	position: relative;
+	padding-top: 50px;
+	padding-left: 300px;
+	color: white;
+	font-size: 34px;
+	font-family: raleway-regular;
+}
+.waxlog {
+	position: relative;
+	margin-top: -143px;
+}
+.menu {
+	position: relative;
+	margin-left: 200px;
+}
+.centershit {
+	position: relative;
+	text-align: center;
+	margin-top: 260px;
+	color: white;
+}
+#gets0 {
+	position: relative;
+	margin-top: 50px;
+}
+

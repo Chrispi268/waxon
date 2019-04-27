@@ -783,3 +783,562 @@ div.webdesign:hover .browny {
 div.fourinrow {
 	margin-bottom: 50px;
 }
+.mama1 {
+	position: relative;
+}
+.toddler1 {
+	position:absolute;
+    left:90px;
+    bottom:0;
+    right:0;
+    top:70px;
+    padding:0px;
+    display:none;
+}
+.mama1:hover .toddler1 {
+	display: block;
+}
+.mama2 {
+	position:relative;
+}
+.toddler2 {
+	position:absolute;
+    left:90px;
+    bottom:0;
+    right:0;
+    top:70px;
+    padding:0px;
+    display:none;
+}
+.mama2:hover .toddler2 {
+	display: block;
+}
+.mama3 {
+	position: absolute;
+}
+.toddler3{
+	position:absolute;
+    left:90px;
+    bottom:0;
+    right:0;
+    top:70px;
+    padding:0px;
+    display:none;
+}
+.mama3:hover .toddler3 {
+	display: block;
+}
+.mama4{
+	position: absolute;
+}
+.toddler4{
+	position:absolute;
+    left:90px;
+    bottom:0;
+    right:0;
+    top:70px;
+    padding:0px;
+    display:none;
+}
+.mama4:hover .toddler4 {
+	display: block;
+}
+.mama5 {
+	position: absolute;
+}
+.toddler5{
+	position:absolute;
+    left:90px;
+    bottom:0;
+    right:0;
+    top:70px;
+    padding:0px;
+    display:none;
+}
+.mama5:hover .toddler5 {
+	display: block;
+}
+.mama6 {
+	position: absolute;
+}
+.toddler6{
+	position:absolute;
+    left:90px;
+    bottom:0;
+    right:0;
+    top:70px;
+    padding:0px;
+    display:none;
+}
+.mama6:hover .toddler6 {
+	display: block;
+}
+.cardass {
+	background-color: #fbfaf8;
+}
+p.card-textfirst {
+	color: #c7b299;
+	font-family: raleway-medium !important;
+	font-size: 20px;
+}
+p.card-textsecond {
+	color: #d1d1d1;
+	font-size: 14px;
+	font-family: mostserrat-light;
+}
+.cardass:hover {
+	background-color: #362f2d;
+}
+.cardass:hover .card-textfirst {
+	color: white;
+}
+.cardass:hover .card-textsecond {
+	color: #c7b299;
+}
+p.card-textfirst, p.card-textsecond {
+	margin-left: 15px;
+}
+.card-bodybrown {
+	margin-top: 20px;
+}
+p.card-textsecond {
+	line-height: 2px;
+	padding-bottom:20px;
+}
+.cardass {
+	margin-right:0px;
+}
+.fuckedup1 {
+	margin-bottom: 10px;
+}
+#bitch1:hover {
+   -webkit-filter: opacity(75%);  
+	opacity: 75% !important;
+}
+#bitch2:hover {
+   -webkit-filter: opacity(75%);  
+	opacity: 75%;
+}
+#bitch3:hover {
+   -webkit-filter: opacity(75%);  
+	opacity: 75%;
+}
+#bitch4:hover {
+   -webkit-filter: opacity(75%);  
+	opacity: 75%;
+}
+#bitch5:hover {
+   -webkit-filter: opacity(75%);  
+	opacity: 75%;
+}
+#bitch6:hover {
+   -webkit-filter: opacity(75%);  
+	opacity: 75% !important;
+}
+.mamka1 {
+	position: relative;
+}
+.maloj1 {
+	position:absolute;
+    left:120px;
+    bottom:0;
+    right:0;
+    top:100px;
+    padding:0px;
+    display:none;
+}
+.mamka1:hover .maloj1{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka2 {
+	position: relative;
+}
+.maloj2 {
+	position:absolute;
+    left:120px;
+    bottom:0;
+    right:0;
+    top:100px;
+    padding:0px;
+    display:none;
+}
+.mamka2:hover .maloj2{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka3 {
+	position: relative;
+}
+.maloj3 {
+	position:absolute;
+    left:120px;
+    bottom:0;
+    right:0;
+    top:100px;
+    padding:0px;
+    display:none;
+}
+.mamka3:hover .maloj3{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka4 {
+	position: relative;
+}
+.maloj4 {
+	position:absolute;
+    left:120px;
+    bottom:0;
+    right:0;
+    top:100px;
+    padding:0px;
+    display:none;
+}
+.mamka4:hover .maloj4{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka5 {
+	position: relative;
+}
+.maloj5 {
+	position:absolute;
+    left:120px;
+    bottom:0;
+    right:0;
+    top:100px;
+    padding:0px;
+    display:none;
+}
+.mamka5:hover .maloj5{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka6 {
+	position: relative;
+}
+.maloj6 {
+	position:absolute;
+    left:120px;
+    bottom:0;
+    right:0;
+    top:100px;
+    padding:0px;
+    display:none;
+}
+.mamka6:hover .maloj6{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.card111 {
+	padding-bottom: 30px;
+}
+.card-title111 {
+	font-family: raleway-medium;
+	font-size: 20px;
+	color: #656565;
+	padding-left: 30px;
+}
+.card-text111 {
+	font-family: montserrat-light;
+	font-size: 14px;
+	color: #8c8c8c;
+	padding-left: 30px;
+}
+a.moreinf {
+	color: #c7b299;
+	font-size: 14px;
+	font-family: montserrat-light;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.moreinf:after {
+	content: "▶";
+	font-size: 15px;
+	padding-left: 7px;
+	padding: right: 0px;
+}
+.card111:hover {
+	background-color: #362f2d;
+}
+.card111:hover .card-title111 {
+	color: #c7b299;
+}
+.card111:hover .moreinf {
+	color: #c7b299;
+}
+.card111:hover .card-text111 {
+	color: white;
+}
+#last1:hover {
+ -webkit-filter: opacity(75%);  
+}
+#last2:hover {
+ -webkit-filter: opacity(75%);  
+}
+#last3:hover {
+	 -webkit-filter: opacity(75%);  
+}
+p.waxon {
+	margin-top:130px;
+}
+div.fuckucarousel {
+	position: absolute;
+
+}
+.fuckucarousel {
+	position: absolute;
+}
+.logo {
+	position: relative;
+	padding-top: 50px;
+	padding-left: 300px;
+	color: white;
+	font-size: 34px;
+	font-family: raleway-regular;
+}
+.waxlog {
+	position: relative;
+	margin-top: -127px;
+}
+.menu {
+	position: relative;
+	margin-left: 200px;
+}
+.centershit {
+	position: relative;
+	text-align: center;
+	margin-top: 260px;
+	color: white;
+}
+#gets0 {
+	position: relative;
+	margin-top: 50px;
+}
+.page22 {
+	margin-top: 450px;
+}
+@media  (max-width: 779px) {
+	.numbers {font-size:24px !important ;
+	}
+	.suck {font-size:18px;}
+	.textylefty {margin-top: -50px;}
+	.brrr {margin-top: 20px;}
+	.just4 {margin-bottom: 20px;}
+
+} 
+@media (max-width:991px) {
+	.mamka1 {
+	position: relative;
+}
+.maloj1 {
+	position:absolute;
+    left:55px;
+    bottom:0;
+    right:0;
+    top:40px;
+    padding:0px;
+    display:none;
+}
+.mamka1:hover .maloj1{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka2 {
+	position: relative;
+}
+.maloj2 {
+	position:absolute;
+    left:55px;
+    bottom:0;
+    right:0;
+    top:40px;
+    padding:0px;
+    display:none;
+}
+.mamka2:hover .maloj2{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka3 {
+	position: relative;
+}
+.maloj3 {
+	position:absolute;
+    left:55px;
+    bottom:0;
+    right:0;
+    top:40px;
+    padding:0px;
+    display:none;
+}
+.mamka3:hover .maloj3{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka4 {
+	position: relative;
+}
+.maloj4 {
+	position:absolute;
+    left:55px;
+    bottom:0;
+    right:0;
+    top:40px;
+    padding:0px;
+    display:none;
+}
+.mamka4:hover .maloj4{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka5 {
+	position: relative;
+}
+.maloj5 {
+	position:absolute;
+    left:55px;
+    bottom:0;
+    right:0;
+    top:40px;
+    padding:0px;
+    display:none;
+}
+.mamka5:hover .maloj5{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka6 {
+	position: relative;
+}
+.maloj6 {
+	position:absolute;
+    left:55px;
+    bottom:0;
+    right:0;
+    top:40px;
+    padding:0px;
+    display:none;
+}
+.mamka6:hover .maloj6{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+}
+@media (max-width: 770px){
+.mamka1 {
+	position: relative;
+}
+.maloj1 {
+	position:absolute;
+    left:200px;
+    bottom:0;
+    right:0;
+    top:130px;
+    padding:0px;
+    display:none;
+}
+.mamka1:hover .maloj1{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka2 {
+	position: relative;
+}
+.maloj2 {
+	position:absolute;
+    left:200px;
+    bottom:0;
+    right:0;
+    top:130px;
+    padding:0px;
+    display:none;
+}
+.mamka2:hover .maloj2{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka3 {
+	position: relative;
+}
+.maloj3 {
+	position:absolute;
+    left:200px;
+    bottom:0;
+    right:0;
+    top:130px;
+    padding:0px;
+    display:none;
+}
+.mamka3:hover .maloj3{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka4 {
+	position: relative;
+}
+.maloj4 {
+	position:absolute;
+    left:200px;
+    bottom:0;
+    right:0;
+    top:130px;
+    padding:0px;
+    display:none;
+}
+.mamka4:hover .maloj4{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka5 {
+	position: relative;
+}
+.maloj5 {
+	position:absolute;
+    left:200px;
+    bottom:0;
+    right:0;
+    top:130px;
+    padding:0px;
+    display:none;
+}
+.mamka5:hover .maloj5{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+.mamka6 {
+	position: relative;
+}
+.maloj6 {
+	position:absolute;
+    left:200px;
+    bottom:0;
+    right:0;
+    top:130px;
+    padding:0px;
+    display:none;
+}
+.mamka6:hover .maloj6{
+    display: block;
+    -webkit-filter: opacity(75%);  
+	opacity: 95%;
+}
+}
